@@ -1,0 +1,23 @@
+.caixa-big-card{
+    margin-left: 280px;
+    margin-right: 50px;
+}
+
+.descrição-titulo p{
+    color: red;
+    font-size: 12px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.descrição-completa p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2.5;
+    max-width: 600px;
+}
+hr{
+    color: wheat
+}

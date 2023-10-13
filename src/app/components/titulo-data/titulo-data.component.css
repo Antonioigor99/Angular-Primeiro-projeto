@@ -1,0 +1,21 @@
+.titulo-conteiner{
+    margin-left: 250px;
+}
+i{
+    color: white;
+    margin-right: 10px;
+}
+
+.titulo-conteiner h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+}
+.titulo-conteiner p{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+i{
+    margin-right: 5px;
+}

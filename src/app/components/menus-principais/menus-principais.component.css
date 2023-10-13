@@ -1,0 +1,29 @@
+*{
+    background: red;
+    height: 50px;
+}
+.conteiner-menu{
+    position: fixed;
+    width: 100%;
+}
+.itens-menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: 380px;
+    height: 30px;
+
+}
+.itens-menu li{
+    margin-top: 10px;
+    list-style-type: none;
+    font-size:20px;
+    margin-right: 20px;
+    color: white;
+    justify-content: center;
+    height: 30px;
+}
+i{
+    margin-right: 5px;
+    height: 40px;
+    height: 30px;
+}

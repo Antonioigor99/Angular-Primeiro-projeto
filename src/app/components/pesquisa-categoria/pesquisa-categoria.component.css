@@ -1,0 +1,38 @@
+.pesq-cat{
+    margin: 50px;
+}
+.pesquisa, .pesquisa2{
+    width: 250px;
+    padding: 10px;
+    border-radius: 40px;
+    color: white;
+    background: linear-gradient(red, rgb(104, 0, 0));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -10px;
+}
+.search-txt{
+    background: none;
+    border: none;
+    width: 200px;
+    height: 28px;
+    color: white;
+    outline: none;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: oblique;
+    margin-left: 10px;
+}
+
+i{
+    background: none;
+    font-size: 25px;
+    color: wheat;
+}
+::placeholder{
+    color: wheat;
+}
+.pesquisa{
+    margin-bottom: 10px;
+}
